@@ -27,7 +27,6 @@ floating_modifier $mod
 bindsym $mod+Return exec i3-sensible-terminal
 
 # chrome + slack
-#bindsym $mod+r (google-chrome; slack) &
 bindsym $mod+p exec google-chrome
 bindsym $mod+o exec slack
 bindsym $mod+i exec spotify
